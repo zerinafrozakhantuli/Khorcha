@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="{{asset('contents/admin')}}/css/datatables.min.css">
     <link rel="stylesheet" href="{{asset('contents/admin')}}/css/datepicker.css">
     <link rel="stylesheet" href="{{asset('contents/admin')}}/css/style.css">
+     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   </head>
   <body>
     <header>
@@ -117,6 +118,7 @@
     <script src="{{asset('contents/admin')}}/js/bootstrap.bundle.min.js"></script>
     <script src="{{asset('contents/admin')}}/js/datatables.min.js"></script>
     <script src="{{asset('contents/admin')}}/js/bootstrap-datepicker.js"></script>
-    <script src="{{asset('contents/admin')}}/js/custom.js"></script>
+    <script src="{{asset('contents/admin')}}/js/custom.js"></script> 
+ 
   </body>
 </html>
