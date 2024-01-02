@@ -12,7 +12,7 @@
               <div class="card-header">
                 <div class="row">
                     <div class="col-md-12 card_title_part">
-                        <i class="fab fa-gg-circle"></i>All Expense Category Information
+                        <i class="fab fa-gg-circle"></i>All Income Category Information
                     </div>  
                       
                 </div>
@@ -32,7 +32,7 @@
               <div class="card-header">
                 <div class="row">
                     <div class="col-md-12 card_title_part">
-                        <i class="fab fa-gg-circle"></i>All Expense Category Information
+                        <i class="fab fa-gg-circle"></i>All Income Category Information
                     </div>  
                       
                 </div>
